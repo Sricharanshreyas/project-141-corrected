@@ -1,0 +1,17 @@
+#instruction{
+  color: black;
+  
+    float: right;
+}
+#heading{
+    float:left;
+    color:white;
+}
+.header{
+    width:100%;
+}
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position:center;
+}
